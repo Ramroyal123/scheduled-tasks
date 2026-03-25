@@ -14,8 +14,8 @@ import datetime as dt
 import pandas
 import random
 import smtplib
-MY_EMAIL = "sanathanadharma1995@gmail.com"
-MY_PASSWORD = "waed xiah resf jcsn"
+#MY_EMAIL = "sanathanadharma1995@gmail.com"
+#MY_PASSWORD = "waed xiah resf jcsn"
 
 MY_EMAIL = os.environ.get("MY_EMAIL")
 MY_PASSWORD = os.environ.get("MY_PASSWORD")
